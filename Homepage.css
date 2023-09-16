@@ -1,0 +1,69 @@
+.heading {
+  background-color: cornflowerblue;
+  margin: 0%;
+  padding: 10px;
+  background: linear-gradient(#FFA500,#cdc1bc);
+  background: radial-gradient(#999f98,#a79993);
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 800;
+}
+#nav {
+  padding-left: 90px;
+  text-decoration: none;
+  color: initial;
+  
+} 
+#nav:hover{
+  color:tomato;
+  
+}
+.NavBar{
+  position: relative; 
+}
+#logo{
+width: 150px;
+margin-top: 10px;
+margin-left: 29px;
+}
+.NavBar{
+  background-color: aliceblue;
+  margin: 0%;
+}
+.carouselImg {
+  width: 1000px;
+  height: 420px;
+}
+#heading-about{
+  text-decoration: underline;
+  font-family: 'Times New Roman', Times, serif;
+  padding: 50px;
+}
+.para-container{
+  text-align:left;
+  font-family: Arial, Helvetica, sans-serif;
+}  
+#about-image{
+  width: 500px;
+  height: fit-content;
+}
+.para-container1{
+  text-align:left;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 200px;
+}  
+#about-image1{
+  width: 500px;
+  height: 350px;
+  margin-top: 200px;
+}
+.footer{
+  padding-top: 100px;
+  padding-bottom: 30px;
+  font-weight: 100;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#footer-container{
+  background-color: #999f98;
+}
+
